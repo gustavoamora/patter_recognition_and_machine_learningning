@@ -1,2 +1,2 @@
 # patter_recognition_and_machine_learningning
-Repositório destinado à matéria Reconhecimento de Padrões do PPCOMP.
+Repositório destinado aos estudos da matéria de Reconhecimento de Padrões do programa de mestrado em computação do IFES, ministrada pelo prof. Dr. Francisco Boldt.
